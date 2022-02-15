@@ -1,16 +1,16 @@
 Start
 Stop
 Get Triggers
-Reload Game
+Reload App
 Statistics
 Battle Results
 Event Log
 Log
 Open Chests
-Map Request
+Request Cards
 Combat Mode
-Language Selection
-Select Query Map
+Language
+Regular Card to Request
 Bot Settings
 Specify ADB Server Port Number
 Number of Finishes
